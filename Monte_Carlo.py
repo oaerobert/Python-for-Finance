@@ -19,7 +19,7 @@ z = np.random.standard_normal(I)
 
 # Apply Monte Carlo Formula using define variables based on user input
 
-ST = S0 * np.exp(r - (0.5 * sigma ** 2) * T + math.sqrt(T) * z)
+ST = S0 * np.exp(r - (0.5 * sigma ** 2) * T + sigma * math.sqrt(T) * z)
 hT = np.maximum(ST - K, 0)
 C0 = math.exp(-r * T) * np.mean(hT)
 
