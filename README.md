@@ -5,7 +5,6 @@ Welcome to my Financial Mathematics project! This project demonstrates Python-ba
 
 I’m currently a second-year **Mathematical Economics** student at the University of Birmingham, and I’m self-teaching myself to enhance my understanding of quantitative finance. This project is part of my personal journey to develop practical skills and build a portfolio showcasing my ability to combine mathematics, economics, and programming.
 
-The most foundational project here, is the **Black Scholes Model**
 
 ## What is the Black-Scholes Model? 🤔
 The Black-Scholes model is a mathematical framework used for pricing European call and put options. It was introduced by **Fischer Black**, **Myron Scholes**, and later refined by **Robert Merton**. The model relies on the assumptions of efficient markets, no arbitrage, and a log-normal distribution of asset prices. The key formula calculates the theoretical price of an option based on variables such as:
@@ -20,7 +19,7 @@ The Black-Scholes model is a mathematical framework used for pricing European ca
 
 - **Numerical Simulation**: The Python implementation uses **Monte Carlo methods** to simulate option prices based on the Black-Scholes framework.
 - **Analytical Pricing**: The project also includes the closed-form solution to calculate European option prices directly.
-- **Visualization**: Data visualizations help compare simulated prices with analytical prices, enhancing understanding.
+- **Visualisation**: Data visualizations help compare simulated prices with analytical prices, enhancing understanding.
 - **Flexible Parameters**: Users can easily modify inputs like stock price, strike price, time to maturity, volatility, and risk-free rate.
 
 ## Motivation 🏆
