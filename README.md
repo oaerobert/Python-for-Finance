@@ -1,9 +1,8 @@
 # Financial Mathematics 🎯
-## Overview
 
-Welcome to my Financial Mathematics project! This project demonstrates Python-based implementations of the "Python for Finance" textbook, which I am currently using to teach myself mathematical fundamentals in finance and python. Here, I apply my learnt computational techniques.
+Hey! 🙌🏾 This project demonstrates Python-based implementations of the "Python for Finance" textbook, which I am currently using to teach myself mathematical fundamentals in finance and python. Here, I am learning how to apply computational techniques.
 
-I’m currently a second-year **Mathematical Economics** student at the University of Birmingham, and I’m self-teaching myself to enhance my understanding of quantitative finance. This project is part of my personal journey to develop practical skills and build a portfolio showcasing my ability to combine mathematics, economics, and programming.
+I’m currently a second-year **Mathematical Economics & Statistics** student at the University of Birmingham, this project is part of my personal journey to develop practical skills and build a portfolio showcasing my ability to combine mathematics, economics, statistics and programming.
 
 
 ## What is the Black-Scholes Model? 🤔
