@@ -56,11 +56,4 @@ This is just the beginning of my journey into **financial mathematics**. Future 
 - Extending to **American options** using finite difference methods.
 - Integrating live market data for real-time option pricing.
 
-## Connect with Me 😉
-Feel free to reach out if you have any feedback, suggestions, or just want to chat about financial mathematics and programming! This project is an evolving piece of work, and I’m excited to learn and grow along the way.
-
-
-
 ---
-
-
