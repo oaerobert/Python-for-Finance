@@ -24,7 +24,6 @@ hT = np.maximum(ST - K, 0)
 C0 = math.exp(-r * T) * np.mean(hT)
 
 # Tell the user the value of their European Call Option
-print(f"The value of your European Call Option is {C0}")
 
 print(f"The value of your European Call Option is {C0}")
 
