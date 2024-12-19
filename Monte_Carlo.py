@@ -1,4 +1,4 @@
-# Import the libraries you will need: 
+# Import the libraries you will need (numpy for mathematics): 
 import numpy as np
 
 # Define the variables of the Monte Carlo Formula
