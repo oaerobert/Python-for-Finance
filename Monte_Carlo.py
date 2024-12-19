@@ -13,7 +13,7 @@ sigma = float(input(f"What is the constant volatility?: "))
 # Define the number iterations of Monte Carlo you prefer (the greater, the closer our values are to their true values)
 I = 10000000
 
-# Ask Python to generate a random sequence of numbers that are in the same order for each iteration
+# Ask Python to generate a random sequence of numbers that are reproducible
 np.random.seed(1000)
 z = np.random.standard_normal(I)
 
