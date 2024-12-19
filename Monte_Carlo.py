@@ -18,14 +18,15 @@ np.random.seed(1000)
 z = np.random.standard_normal(I)
 
 # Apply Monte Carlo Formula using define variables based on user input
+# Use the math import for scalar functions, and the np for extensive functions/arrays/matrices
 
 ST = S0 * np.exp(r - (0.5 * sigma ** 2) * T + sigma * math.sqrt(T) * z)
 hT = np.maximum(ST - K, 0)
 C0 = math.exp(-r * T) * np.mean(hT)
 
-# Tell the user the value of their European Call Option
+# Tell the user the value of their European Call Option to two decimal places
 
-print(f"The value of your European Call Option is {C0}")
+print(f"The value of your European Call Option is {C0:.2f}")
 
 
 
