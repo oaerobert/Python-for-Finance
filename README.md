@@ -16,7 +16,7 @@ This repository showcases my work with Python in analysing and visualising finan
   - Historical trends and patterns in the stock market using real S&P 500 data.
 - Designed user-friendly graphs and plots to make data insights easily interpretable.
 
-### 2. Monte Carlo Simulations with User Input 🏆
+### 2. Monte Carlo Simulations 
 - I developed a Monte Carlo simulation model for stock price forecasting.
 - This simulation includes:
   - User-defined parameters such as initial stock price, number of simulations, and time of maturity.
@@ -29,8 +29,9 @@ This repository showcases my work with Python in analysing and visualising finan
 - **Matplotlib**: For creating detailed and insightful visualizations.
 
 ## How to Use
+Take a look at the files within this repository. The titles correspond to the appropriate project 😇
 - Ensure you install the required libraries.
-- Copy and Paste the code into Python.
+- Copy and paste the code into Python.
 - Adapt the code to your specific data and user inputs and use to your discretion :)
 
 ---
