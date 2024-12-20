@@ -25,7 +25,7 @@ Not only that, but I'm also using Python for my econometric assingments (we are 
 
 ---
 
-## If you would like to see this code in action 🏄🏾‍♀️...
+### If you would like to see this code in action 🏄🏾‍♀️...
 Take a look at the files within this repository. The titles correspond to the appropriate project 😇
 - Ensure you install the required libraries.
 - Copy and paste the code into Python.
