@@ -14,11 +14,14 @@ Here, I utilise the Python libraries: NumPy, Matplotlib and Pandas. I use these 
 The purpose of this is to assess the rolling volatilities of the Standard and Poors 500 index. This will help to demonstrate periods of market uncertainty.
 
 ### Repository Structure
-- `data`: Contains the dataset that I've used to make this happen
+- `data`: Contains the dataset that I've used to make this happen.
+
 - `scripts`: Python scripts for the analysis (`S&P500.py`)
+  
 - `notebooks`: Interactive Jupyter Notebook that showcases the analysis of the S&P 500
+  
 - `README.md`: Project description and usage (you're reading it write now! :) )
 
-### Want to see how this works in real time? Try installing this into PyCharm/equivalent for yourself! 😍
+#### Want to see how this works in real time? Try installing this into PyCharm/equivalent for yourself! 😍
 
 
