@@ -12,13 +12,13 @@ Not only that, but I'm also using Python for my econometric assingments (we are 
 ---
 
 #### 1. S&P 500 Data Visualisation 📊
-- I used the libraries **NumPy**, **Pandas**, and **Matplotlib** to provide clear visualisations of:
+I used the libraries **NumPy**, **Pandas**, and **Matplotlib** to provide clear visualisations of:
   - Relative volatilities of different stocks.
   - Historical trends and patterns in the stock market using real S&P 500 data.
 - Designed user-friendly graphs and plots to make data insights easily interpretable.
 
-#### 2. Monte Carlo Simulations 
-- I developed a Monte Carlo simulation model for stock price forecasting. I used **NumPy**
+#### 2. Monte Carlo Simulations ⏩
+I developed a Monte Carlo simulation model for stock price forecasting. I used **NumPy**
 - This simulation includes:
   - User-defined parameters such as initial stock price, number of simulations, and time of maturity.
   - Aimed to help users assess risk and potential returns effectively.
