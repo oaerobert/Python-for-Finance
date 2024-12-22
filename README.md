@@ -28,7 +28,7 @@ I developed a Monte Carlo simulation model for stock price forecasting. I used *
 ### If you would like to see this code in action 🏄🏾‍♀️...
 Take a look at the files within this repository. The titles correspond to the appropriate project 😇
 - Ensure you install the required libraries.
-- Copy and paste the code into Python.
+- Copy and paste the code into Python or Jupyter.
 - Adapt the code to your specific data and user inputs and use to your discretion :)
 
 ---
