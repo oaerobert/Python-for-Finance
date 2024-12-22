@@ -1,28 +1,30 @@
-## Monte Carlo Simulations ☎️
+## Monte Carlo Simulations in Python 🐍
 
-### Description
+### General Description
 
-This Python script uses the **Monte Carlo Simulation** method to calculate the price of a European Call Option. It leverages mathematical functions from **NumPy** to generate random sequences and simulate asset price paths. The script is designed to help users understand how Monte Carlo techniques are applied in financial modeling.
+Hey! 👋🏾
+
+This Python script uses the **Monte Carlo Simulation** method to calculate the price of a European Call Option. 
+
+It leverages mathematical functions from **NumPy** to generate random sequences and simulate asset price paths. The script is designed to help users understand how Monte Carlo techniques are applied in financial modeling.
 
 ---
 
-### Features
+### Core Features:
 
-Allows the user to input key parameters:
+This program enables any user to input key parameters, as per the formula, of:
    - Initial stock price $S_0 $
    - Risk-free interest rate $r$
    - Strike price $K$
    - Time to maturity $T$ in years
    - Volatility ${\sigma\}$
 
-Simulates **100,000 random paths** for the stock price.
-
-Outputs the **calculated value of the European Call Option** using Monte Carlo methods.
+Simulates **100,000 random paths** for the stock price. This is adjustable depending on your individual preferences. 🤸🏾
+- In the end, it outputs the **calculated value of the European Call Option**
 
 ---
 
-### Prerequisites
-
+### Prerequisites 👩🏾‍💻
 Ensure you have Python installed with the following library:
 - **NumPy**
 
@@ -40,10 +42,7 @@ When prompted, enter:
 - Volatility ${\sigma\}$: The annualized standard deviation of the stock's returns.
 The script calculates and displays the value of the European Call Option to two decimal places.
 
-### Key Notes
-Monte Carlo Iterations $I$: The script uses 100,000 iterations by default to ensure accurate results. You can modify the value of 
-$I$ in the code if desired.
-
+### Key Notes:
 Random Seed: The script uses np.random.seed(1000) to ensure consistent random number generation across runs.
 The results are approximate and improve with a higher number of iterations.
 
