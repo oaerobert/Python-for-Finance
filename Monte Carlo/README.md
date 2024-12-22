@@ -1,12 +1,11 @@
 ## Monte Carlo Simulations in Python 🐍
 
-### General Description
-
 Hey! 👋🏾
 
 This Python script uses the **Monte Carlo Simulation** method to calculate the price of a European Call Option. 
 
 It leverages mathematical functions from **NumPy** to generate random sequences and simulate asset price paths. The script is designed to help users understand how Monte Carlo techniques are applied in financial modeling.
+You can take a look at the structure using the Notebook within this folder, or copy and paste the code for yourself within Pycharm/equivalent.
 
 ---
 
@@ -99,7 +98,7 @@ Where:
 
 ---
 
-#### Explanation of Key Concepts:
+#### Explanation of Key Concepts: 🧠
 
 1. **Lognormal Distribution**:
    The stock price is modeled as a lognormal distribution because the logarithm of stock prices tends to follow a normal distribution in financial models.
@@ -126,7 +125,7 @@ Change the random seed: Adjust np.random.seed(1000) for different random sequenc
 ---
 ### Example Use Case:
 
-Imagine a stock priced at $50 with a 5% risk-free rate, a strike price of $55, 1 year to maturity, and 20% annual volatility. The script calculates the expected price of a European Call Option using Monte Carlo simulation.
+Imagine a stock priced at £50.00 with a 5% risk-free rate, a strike price of £55.00, 1 year to maturity, and 20% annual volatility. The script calculates the expected price of a European Call Option using Monte Carlo simulation.
 
 ### Limitations
 This script assumes constant volatility and risk-free rates.
