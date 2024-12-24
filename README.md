@@ -5,7 +5,6 @@ My name is Oke and I'm currently a second year Mathematical Economics & Statisti
 - I bought the textbook "Python for Finance" which currently is enabling me to refine my technical proficiencies in Python and its libraries (**NumPy, Pandas and Matplotlib**). 
 
 I've been working through it and I'm documenting the projects of this textbook within this repository. 
-Not only that, but I'm also using Python for my econometric assingments (we are required to use STATA) to demonstrate versatility. In Python, I aim to demonstrate hypothesis testing, regression analysis and data visualisation using Python libraries.
 
 - This repository showcases my work with Python in analysing and visualising financial data, alongside simulating stock market behaviours and performing statistical tests 📈
 
