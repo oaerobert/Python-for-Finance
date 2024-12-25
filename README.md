@@ -2,7 +2,7 @@
 Hey! 👋🏾 
 
 My name is Oke and I'm currently a second year Mathematical Economics & Statistics student at the University of Birmingham.
-- I bought the textbook "Python for Finance" which currently is enabling me to refine my technical proficiencies in Python and its libraries (**NumPy, Pandas and Matplotlib**). 
+- I bought the textbook "Python for Finance" which currently is enabling me to refine my technical proficiencies in Python and its libraries (**NumPy, Pandas, Statsmodels and Matplotlib**). 
 
 I've been working through it and I'm documenting the projects of this textbook within this repository. 
 
