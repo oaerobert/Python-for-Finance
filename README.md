@@ -22,6 +22,11 @@ I developed a Monte Carlo simulation model for stock price forecasting. I used *
   - User-defined parameters such as initial stock price, number of simulations, and time of maturity.
   - Aimed to help users assess risk and potential returns effectively.
 
+#### 3. ML Trading Strategy using Support Vector Classification 📊
+I created a ML based trading strategy to predict stock price movements, and evaluate its performance against a buy and hold strategy.
+- It predicts stock returns by comparing cumulative returns of the ML strategy to the buy-and-hold strategy.
+- Provides a clear plot of strategy returns vs. actual stock returns for easy interpretation.
+- 
 ---
 
 ### If you would like to see this code in action 🏄🏾‍♀️...
