@@ -6,7 +6,7 @@ My name is Oke and I'm currently a second year Mathematical Economics & Statisti
 
 I've been working through it and I'm documenting the projects of this textbook within this repository. 
 
-- This repository showcases my work with Python in analysing and visualising financial data, alongside simulating stock market behaviours and performing statistical tests 📈
+- This repository showcases my work with Python in analysing and visualising financial data, alongside simulating stock market behaviours and performing statistical tests 📈 It is regularly being updated as I progress within the textbook.
 
 ---
 
