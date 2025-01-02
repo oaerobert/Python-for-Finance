@@ -26,7 +26,8 @@ I developed a Monte Carlo simulation model for stock price forecasting. I used *
 I created a ML based trading strategy to predict stock price movements, and evaluate its performance against a buy and hold strategy.
 - It predicts stock returns by comparing cumulative returns of the ML strategy to the buy-and-hold strategy.
 - Provides a clear plot of strategy returns vs. actual stock returns for easy interpretation.
-- Uses 2 lags as determined by ACF plot to prevent over-fitting of ML model.
+- Uses 3 lags as determined by ACF plot to prevent over-fitting of ML model.
+- Includes markers in Matplotlib that determine the best time to buy and sell for maximum profits
 
 ---
 
