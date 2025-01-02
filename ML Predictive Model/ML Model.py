@@ -33,10 +33,10 @@ plt.rc("font", family="serif")
 data["Buy"] = data["Prediction"] == 1
 data["Sell"] = data["Prediction"] == -1
 
-data[["Daily_Returns","Strategy"]].cumsum().plot(subplots=False, color=["Blue","Red"])
+data[["Daily_Returns","Strategy"]].cumsum().apply(np.exp).plot(subplots=False, color=["Blue","Red"])
 
-plt.scatter(data.index[data["Buy"]], data["Strategy"].cumsum()[data["Buy"]], label="Buy Signal", marker="^", color="green", alpha=1, s=100)
-plt.scatter(data.index[data["Sell"]], data["Strategy"].cumsum()[data["Sell"]], label="Sell Signal", marker="v", color="red", alpha=1, s=100)
+plt.scatter(data.index[data["Buy"]], data["Strategy"].cumsum().apply(np.exp)[data["Buy"]], label="Buy Signal", marker="^", color="green", alpha=1, s=100)
+plt.scatter(data.index[data["Sell"]], data["Strategy"].cumsum().apply(np.exp)[data["Sell"]], label="Sell Signal", marker="v", color="red", alpha=1, s=100)
 
 plt.legend(loc="upper left", labels=["Cumulative Daily Returns", "ML Strategy", "Buy Signal", "Sell Signal"])
 plt.show()
