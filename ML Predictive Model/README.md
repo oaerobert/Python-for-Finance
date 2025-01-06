@@ -1,6 +1,6 @@
 ## Machine Learning Trading Strategy: Predict Buy and Sell Signals 📊
 
-This project implements a machine learning model to predict buy and sell signals in financial markets, with the aim of maximizing returns compared to a traditional buy-and-hold strategy. Using historical market data, the model identifies opportunities to enter and exit positions for optimal profitability.
+This project implements a machine learning model to predict buy and sell signals in financial markets, with the aim of maximising returns compared to a traditional buy-and-hold strategy. Using historical market data, the model identifies opportunities to enter and exit positions for optimal profitability.
 
 ### Features:
 - **Support Vector Classifier (SVC)**: A machine learning model used to classify buy and sell signals based on historical returns.
