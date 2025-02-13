@@ -1,4 +1,4 @@
-# import the necessary libraries (Pandas, NumPy and Matplotlib)
+# import all the necessary libraries (Pandas, NumPy and Matplotlib)
 
 import numpy as np
 import pandas as pd
